@@ -1,0 +1,4 @@
+interface:
+  display_name: "BeGifted Daily Feedback"
+  short_description: "Check missing class comments and add tutor feedback"
+  default_prompt: "Use $begifted-daily-feedback to check my completed classes from the past 72 hours for missing comments."
