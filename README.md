@@ -58,7 +58,7 @@ Installation does not create a schedule. After a successful manual check, you ca
 
 ## Test status
 
-The original workflow was tested in Codex with Safari on 12 October 2026. Eight comments were submitted and verified after reopening their classes. The shareable versions have passed file and archive checks. Claude Code browser use, other tutor account roles, and scheduled daily execution have not been tested live.
+ The shareable versions have passed file and archive checks. Claude Code browser use, other tutor account roles, and scheduled daily execution have not been tested live.
 
 Website controls and account permissions can differ. If the browser tools or required views are unavailable, the assistant must report the problem.
 
